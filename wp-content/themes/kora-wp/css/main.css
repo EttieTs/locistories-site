@@ -1179,7 +1179,7 @@ header.is-fixed {
 	top: 50%;
 	margin-left: -40px;
 	margin-top: -40px;
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/css/owl.video.play.png") no-repeat;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/css/owl.video.play.png") no-repeat;
 	cursor: pointer;
 	z-index: 1;
 	-webkit-backface-visibility: hidden;
@@ -1255,7 +1255,7 @@ header.is-fixed {
 	overflow: hidden;
 	text-indent: 100%;
 	white-space: nowrap;
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cd-icon-close.svg") no-repeat center center;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cd-icon-close.svg") no-repeat center center;
 	-webkit-transform: scale(0) translateZ(0);
 	-moz-transform: scale(0) translateZ(0);
 	-ms-transform: scale(0) translateZ(0);
@@ -1550,7 +1550,7 @@ header.is-fixed {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-loading.gif") no-repeat scroll center center transparent
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-loading.gif") no-repeat scroll center center transparent
 }
 .cbp>* {
 	visibility: hidden
@@ -3951,7 +3951,7 @@ transform:translateY(0)
 	visibility: visible
 }
 .cbp-popup-lightbox .cbp-popup-prev {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll 0 0 transparent;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll 0 0 transparent;
 	width: 44px;
 	height: 44px;
 	top: 0;
@@ -4011,7 +4011,7 @@ transform:translateY(0)
 	line-height: 60px;
 }
 .cbp-popup-lightbox .cbp-popup-next {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -46px 0 transparent;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -46px 0 transparent;
 	width: 44px;
 	height: 44px;
 	top: 0;
@@ -4020,7 +4020,7 @@ transform:translateY(0)
 	margin: auto
 }
 .cbp-popup-lightbox .cbp-popup-close {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -92px 0 transparent;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -92px 0 transparent;
 	height: 40px;
 	width: 40px;
 	right: 20px;
@@ -4072,7 +4072,7 @@ transform:translateY(0)
 	bottom: 0;
 	margin: auto;
 	z-index: 2;
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-loading-popup.gif") no-repeat scroll center center #0D0D0D;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-loading-popup.gif") no-repeat scroll center center #0D0D0D;
 	border: 1px solid rgba(79,80,79,0.3);
 	border-radius: 3px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
@@ -4358,7 +4358,7 @@ transform:translateY(0)
 	height: 40px
 }
 .cbp-popup-singlePageInline .cbp-popup-close {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -92px 0 transparent;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat scroll -92px 0 transparent;
 	height: 40px;
 	width: 40px;
 	right: 20px;
@@ -4591,7 +4591,7 @@ transform:rotate(360deg)
 	bottom: 0;
 	left: 0;
 	margin: auto;
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
 	height: 10px;
 	width: 7px
 }
@@ -4667,7 +4667,7 @@ transform:rotate(360deg)
 	right: auto
 }
 .cbp-slider .cbp-nav-next:after, .cbp-slider .cbp-nav-prev:after {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
 	width: 44px;
 	height: 44px
 }
@@ -4711,7 +4711,7 @@ transform:rotate(360deg)
 	right: auto
 }
 .cbp-slider-edge .cbp-nav-next:after, .cbp-slider-edge .cbp-nav-prev:after {
-	background: url("https://ettiets.github.io/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
+	background: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/cbp-sprite.png") no-repeat;
 	width: 9px;
 	height: 16px
 }

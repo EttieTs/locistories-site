@@ -498,7 +498,7 @@ header nav .simpleNav ul.dropdown .indicator {
 .sub-banner {
 	padding: 80px 0px;
 	background: #e7edf1;
-	background: url(https://ettiets.github.io/wp-content/themes/kora-wp/images/banner.jpg) fixed center center no-repeat;
+	background: url(https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/banner.jpg) fixed center center no-repeat;
 	background-size: cover !important;
 	margin-top: 90px;
 }
@@ -506,7 +506,7 @@ header nav .simpleNav ul.dropdown .indicator {
 	margin-top: 0px;
 }
 .blog-sub {
-	background: url(https://ettiets.github.io/wp-content/themes/kora-wp/images/banner.jpg) center center fixed no-repeat;
+	background: url(https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/banner.jpg) center center fixed no-repeat;
 	background-size: cover;
 }
 .sub-banner h2 {
@@ -1183,7 +1183,7 @@ header nav .simpleNav ul.dropdown .indicator {
 	color: #999999;
 }
 .parallax-bg {
-	background: url(https://ettiets.github.io/wp-content/themes/kora-wp/images/bg/testi-bg.jpg) center center fixed no-repeat;
+	background: url(https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/images/bg/testi-bg.jpg) center center fixed no-repeat;
 	background-size: cover !important;
 	text-align: center;
 }

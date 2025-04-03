@@ -35,8 +35,8 @@
   Modified icons to fit ionicon’s grid from original.
 */@font-face {
 	font-family: "Ionicons";
-	src: url("https://ettiets.github.io/wp-content/themes/kora-wp/fonts/ionicons.eot?v=2.0.0");
-	src: url("https://ettiets.github.io/wp-content/themes/kora-wp/fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("https://ettiets.github.io/wp-content/themes/kora-wp/fonts/ionicons.ttf?v=2.0.0") format("truetype"), url("https://ettiets.github.io/wp-content/themes/kora-wp/fonts/ionicons.woff?v=2.0.0") format("woff"), url("https://ettiets.github.io/wp-content/themes/kora-wp/fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg");
+	src: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/fonts/ionicons.eot?v=2.0.0");
+	src: url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/fonts/ionicons.ttf?v=2.0.0") format("truetype"), url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/fonts/ionicons.woff?v=2.0.0") format("woff"), url("https://ettiets.github.io/locistories-site/wp-content/themes/kora-wp/fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg");
 	font-weight: normal;
 	font-style: normal
 }
